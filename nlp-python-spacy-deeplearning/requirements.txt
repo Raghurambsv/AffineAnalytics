@@ -54,7 +54,7 @@ plac==0.9.6
 preshed==1.0.0
 prompt-toolkit==1.0.15
 pycparser==2.18
-Pygments==2.2.0
+Pygments==2.7.4
 pyOpenSSL==18.0.0
 pyreadline==2.1
 PySocks==1.6.8
